@@ -77,5 +77,5 @@ This project aims to understand the following:
 - Handling file I/O in Node.js
 - Create a logging without external libraries
 
-## 🎬 [Video Wrap Up - ]
+## 🎬 [Video Wrap Up - https://drive.google.com/file/d/1rxw5DedmpyhgesO-ZWN_CeZAHQYLhYWd/view?usp=drive_link]
 ---
